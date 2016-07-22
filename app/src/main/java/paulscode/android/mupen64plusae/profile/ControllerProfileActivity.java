@@ -20,6 +20,8 @@
  */
 package paulscode.android.mupen64plusae.profile;
 
+import paulscode.android.mupen64plusae.input.provider.KeyProvider;
+
 import android.view.KeyEvent;
 import android.view.MotionEvent;
 import android.view.View;
@@ -27,8 +29,7 @@ import android.view.View.OnClickListener;
 import android.widget.Button;
 import android.widget.TextView;
 
-import org.mupen64plusae.v3.alpha.R;
-
+import org.mupen64plusae.v3.fzurita.R;
 import paulscode.android.mupen64plusae.input.AbstractController;
 import paulscode.android.mupen64plusae.input.map.InputMap;
 import paulscode.android.mupen64plusae.input.provider.AxisProvider;
