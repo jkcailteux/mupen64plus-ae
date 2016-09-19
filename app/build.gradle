@@ -17,8 +17,8 @@ android {
         applicationId = "org.mupen64plusae.v3.fzurita"
         minSdkVersion 15
         targetSdkVersion 25
-        versionCode = 83
-        versionName = "3.0.10 (beta)"
+        versionCode = 121
+        versionName = "3.0.121 (beta)"
 
         buildTypes {
 
